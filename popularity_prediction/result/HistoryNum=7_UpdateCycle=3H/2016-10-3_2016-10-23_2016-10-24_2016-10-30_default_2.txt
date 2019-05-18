@@ -1,0 +1,12 @@
+   method            mse          map         
+historyBased        1.825        0.681        
+    mlr              1.39        0.645        
+    svr             1.534        0.508        
+ mse-True-0         1.244        0.573        
+mse-False-0         1.346        0.625        
+ mse-True-1         1.224        0.543        
+mse-False-1         1.334        0.624        
+ mse-True-2         1.361        0.644        
+mse-False-2         1.345        0.622        
+ mse-True-3         1.343        0.628        
+mse-False-3         1.328        0.607        
